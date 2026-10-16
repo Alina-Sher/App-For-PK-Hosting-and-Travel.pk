@@ -1,0 +1,1 @@
+export default {content:['./index.html','./src/**/*.{js,jsx}'],theme:{extend:{colors:{navy:{DEFAULT:'#0b2447',700:'#13335f'},brand:'#1d4ed8'},fontFamily:{sans:['IBM Plex Sans','system-ui','sans-serif']}}},plugins:[]};
